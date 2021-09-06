@@ -1,4 +1,7 @@
 # Welcome to westshae's Github.
+### :fireworks: My current projects/What I'm learning.
+I'm currently creating a Fullstack application/website to create customized and easy to access exercises/workouts.
+My current techstack is NestJS(Typescript) for my backend, NextJS(Typescript, ReactJS) for my frontend and I have a Postgres database integrated. Once this base project has been completed, I plan to expand the project into an app via Flutter.
 ### :anger: I've got a long list of on-going projects, often connected to web development. Previous projects include...
 1. [Personal Portfolio Website](https://github.com/westshae/westshae.github.io)
 2. [Victoria Engineering Club Website](https://github.com/westshae/vecnz.github.io)
