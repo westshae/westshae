@@ -1,11 +1,11 @@
 # Welcome to westshae's Github.
 ### :fireworks: My current projects/What I'm learning.
-I'm currently creating a Fullstack application/website to create customized and easy to access exercises/workouts.
-My current techstack is NestJS(Typescript) for my backend, NextJS(Typescript, ReactJS) for my frontend and I have a Postgres database integrated. Once this base project has been completed, I plan to expand the project into an app via Flutter.
+I'm currently leading a web-based, singleplayer strategy game, created using NodeJS, Typescript, plus the pixi.js library
 ### :anger: I've got a long list of on-going projects, often connected to web development. Previous projects include...
-1. [Personal Portfolio Website](https://github.com/westshae/westshae.github.io)
-2. [Victoria Engineering Club Website](https://github.com/westshae/vecnz.github.io)
-3. [Grade Calculator](https://github.com/westshae/gradecalculator)
+1. [Weather Website](https://github.com/westshae/weather)
+2. [Personal Portfolio Website](https://github.com/westshae/westshae.github.io)
+3. [Victoria Engineering Club Website](https://github.com/westshae/vecnz.github.io)
+4. [Grade Calculator](https://github.com/westshae/gradecalculator)
 ### :rosette: My current knowledge includes...
 1. 2+ years of Java knowledge, having done multiple projects including Minecraft Plugins and other school-related projects.
 2. 1.5+ year of Javascript knowledge, having creating my multiple websites, which I've now decided is my calling.
@@ -14,6 +14,7 @@ My current techstack is NestJS(Typescript) for my backend, NextJS(Typescript, Re
 ### :cactus: Technologies I'm currently learning or plan to learn include...
 1. Back-end development. I've done a small amount using NodeJS and ExpressJS, however those projects were discontinued.
 2. Other front-end web frameworks, specifically VueJS.
+3. Web-based game development, moving towards networking soon
 ### :speaking_head: Types of projects I'm looking to collaborate on...
 1. Web development-centered projects, front-end or back-end to expand my knowledge
 2. General Javascript projects, such as Discord bots or similiar which I plan to work on in the near future.
