@@ -51,7 +51,3 @@ Created a civilisation 6 like game with a friend with custom world generation ba
 6. Conway's Game of Life (C++ demo)
 A basic terminal print game which replicates Conway's Game of Life.
 [Conways Game of Life](https://github.com/westshae/conway)
-
-### How to reach me:
-1. Email: shaewest02@gmail.com
-2. Discord: westshae
