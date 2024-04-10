@@ -6,12 +6,13 @@ I've been working on my own web projects for a few years now so have decided to 
 ### Experience
 1. Victoria University of Wellington: Software Engineering 3 years, joining workforce early with Computer Science degree.
 2. 7 month+ internship within web development (Typescript/Angular/C#)
+3. 5+ months and presently working as an automation engineer.
 
 ### Current Knowledge
 1. 0.5 years of Angular. Internship and Self-taught.
 2. 0.5 years of C#. Internship.
 3. 3.5+ years of Java. Self-taught and university based.
-4. 3+ years of Javascript (1.5 years of Typescript). Self-taught.
+4. 3.5+ years of Javascript (1.5 years of Typescript). Self-taught.
 5. 1.5+ years of NextJS/ReactJS. Self-taught.
 6. 1.5+ years of C++. Self-taught and university based.
 
