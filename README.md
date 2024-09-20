@@ -7,6 +7,7 @@ Working on entreneurial full-stack development projects, both short term and lon
 1. Computer Science degree with a cybersecurity specialization, Victoria University of Wellington
 2. Previously: Junior Full-stack Developer at SportyNZ for 9 months using Typescript, Angular, C# .NET
 3. Previously: Junior Automation Engineer at NZDF for 9 months using Powershell, Python, Azure, etc.
+4. 5+ years of self-taught experience on 40+ projects.
 
 ### Key Proficencies
 1. TypeScript/Javascript: Primary language for all my full-stack projects (dozens of them) plus industry
