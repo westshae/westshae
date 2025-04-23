@@ -18,4 +18,3 @@
 5. "Settlements": A Minecraft (Java) server plugin that provides the tools to play group-based civilization gamemodes: https://github.com/westshae/settlements
 6. "Shaeo.org": A ReactJS/NestJS full-stack with stripe integration: https://github.com/westshae/Shaeo.org
 7. "website-data-annotation": A puppeteer project which scrapes website html/css, screenshots, and boundary boxes for AI training: https://github.com/westshae/website-data-annotation
-8. WarEffects: A Java Minecraft Plugin. https://github.com/westshae/wareffects
